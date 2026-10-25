@@ -1,0 +1,17 @@
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\bin\Debug\net10.0-windows\Projeto1.exe
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\bin\Debug\net10.0-windows\Projeto1.deps.json
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\bin\Debug\net10.0-windows\Projeto1.runtimeconfig.json
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\bin\Debug\net10.0-windows\Projeto1.dll
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\bin\Debug\net10.0-windows\Projeto1.pdb
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.Form1.resources
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.csproj.GenerateResource.cache
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.AssemblyInfoInputs.cache
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.AssemblyInfo.cs
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.dll
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\refint\Projeto1.dll
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.pdb
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.genruntimeconfig.cache
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\ref\Projeto1.dll
+C:\Users\Hugo Santos\source\repos\WinFormsApp2\Projeto1\obj\Debug\net10.0-windows\Projeto1.csproj.Up2Date
